@@ -1,0 +1,54 @@
+** Generated from SoilGrids v2 (ISRIC) + Wösten 1999 PTF
+** Site: hohenheim_de
+** Topsoil: 0-30 cm depth-weighted average
+**
+** SOIL PARAMETER FILE for use in PCSE
+**
+
+SOLNAM='hohenheim_de'
+
+** physical soil characteristics
+
+** soil water retention
+SMTAB    =  -1.000,   0.444,     ! vol. soil moisture content
+             1.000,   0.431,     ! as function of pF [log (cm); cm3 cm-3]
+             1.300,   0.420,
+             1.491,   0.408,
+             1.700,   0.393,
+             2.000,   0.366,
+             2.400,   0.327,
+             2.700,   0.298,
+             3.000,   0.270,
+             3.400,   0.238,
+             3.700,   0.215,
+             4.000,   0.195,
+             4.204,   0.183,
+             6.000,   0.104
+
+SMW      =   0.183  ! soil moisture content at wilting point [cm3/cm3]
+SMFCF    =   0.366  ! soil moisture content at field capacity [cm3/cm3]
+SM0      =   0.444  ! soil moisture content at saturation [cm3/cm3]
+CRAIRC   =   0.060  ! critical soil air content for aeration [cm3/cm3]
+
+** hydraulic conductivity
+CONTAB    =  -1.000,   5.930,       ! 10-log hydraulic conductivity
+              1.000,   0.679,       ! as function of pF [log (cm); log (cm day-1)]
+              1.300,   0.329,
+              1.491,   0.191,
+              1.700,   0.098,
+              2.000,   0.034,
+              2.400,   0.007,
+              2.700,   0.002,
+              3.000,   0.001,
+              3.400,   0.000,
+              3.700,   0.000,
+              4.000,   0.000,
+              4.204,   0.000,
+              6.000,   0.000
+
+K0       =     17.802 ! hydraulic conductivity of saturated soil [cm day-1]
+SOPE     =   17.80   ! maximum percolation rate root zone [cm day-1]
+KSUB     =   12.82   ! maximum percolation rate subsoil [cm day-1]
+
+** soil depth
+RDMSOL   = 200

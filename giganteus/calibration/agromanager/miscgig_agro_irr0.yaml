@@ -1,0 +1,145 @@
+Version: 1.0.0
+AgroManagement:
+- 2012-10-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2013-01-01
+        crop_start_type: emergence
+        crop_end_date: 2013-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2014-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2014-01-01
+        crop_start_type: emergence
+        crop_end_date: 2014-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2015-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2015-01-01
+        crop_start_type: emergence
+        crop_end_date: 2015-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2016-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2016-01-01
+        crop_start_type: emergence
+        crop_end_date: 2016-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2017-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2017-01-01
+        crop_start_type: emergence
+        crop_end_date: 2017-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2018-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2018-01-01
+        crop_start_type: emergence
+        crop_end_date: 2018-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2019-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2019-01-01
+        crop_start_type: emergence
+        crop_end_date: 2019-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2020-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2020-01-01
+        crop_start_type: emergence
+        crop_end_date: 2020-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2021-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2021-01-01
+        crop_start_type: emergence
+        crop_end_date: 2021-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2022-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2022-01-01
+        crop_start_type: emergence
+        crop_end_date: 2022-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2023-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2023-01-01
+        crop_start_type: emergence
+        crop_end_date: 2023-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2024-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2024-01-01
+        crop_start_type: emergence
+        crop_end_date: 2024-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2025-01-01:
+    CropCalendar:
+        crop_name: miscanthus_giganteus
+        variety_name: miscanthus_giganteus
+        crop_start_date: 2025-01-01
+        crop_start_type: emergence
+        crop_end_date: 2025-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null

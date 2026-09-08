@@ -1,0 +1,335 @@
+nuts3,yield_avg,constraints
+AT111,11.523111768805542,drainage
+AT121,13.531923740337723,frost_damage
+AT124,14.790038715070605,frost_damage
+AT211,19.81392596142008,soil_moisture; frost_damage; gdd
+AT212,8.588989329152705,slope; soil_moisture; frost_damage; gdd
+AT213,16.7852184115739,slope; frost_damage; gdd
+AT222,9.023873398335713,slope; soil_moisture; frost_damage; gdd
+AT223,14.185000157502145,slope; soil_moisture; frost_damage; gdd
+AT226,8.96072707451901,slope; soil_moisture; frost_damage; gdd
+AT314,17.357653067169316,soil_moisture; gdd
+AT315,15.287262704106293,soil_moisture; frost_damage; gdd
+AT321,2.080482107464256,slope; soil_moisture; frost_damage; gdd
+AT322,9.89831260004795,slope; soil_moisture; frost_damage; gdd
+AT323,17.351726153856397,soil_moisture; gdd
+AT331,0.7848250291909704,slope; soil_depth; soil_moisture; frost_damage; gdd
+AT332,4.995208846588747,slope; soil_moisture; frost_damage; gdd
+AT333,0.9741289656351135,slope; soil_moisture; frost_damage; gdd
+AT334,0.5357369081102701,slope; soil_moisture; frost_damage; gdd
+AT335,7.21097525473043,slope; soil_moisture; frost_damage; gdd
+AT341,1.1233087546116494,slope; soil_depth; soil_moisture; frost_damage; gdd
+AT342,15.5751300976839,soil_moisture; gdd
+BG411,9.864860226435896,frost_damage
+BG413,5.881972392104264,slope; frost_damage; gdd
+BG423,5.385767843562239,frost_damage; gdd
+BG424,7.905839939841348,slope; frost_damage; gdd
+DE139,12.418684096765604,soil_moisture; gdd
+DE147,16.780035790086835,soil_moisture
+DE148,16.12306463794143,soil_moisture
+DE213,17.091576941634056,soil_moisture
+DE215,15.267063374795622,soil_moisture; gdd
+DE216,14.32371788381677,soil_moisture; gdd
+DE218,14.673966298188038,soil_moisture
+DE21D,12.453645584317158,slope; soil_moisture; gdd
+DE21F,12.965145920562865,soil_moisture; gdd
+DE21K,17.59748703973947,soil_moisture
+DE21L,14.605041595550087,soil_moisture
+DE21M,18.196008200242012,soil_moisture; frost_damage
+DE21N,15.382185224797755,soil_moisture
+DE225,16.876030395531465,soil_moisture; gdd
+DE263,8.418231117033063,soil_depth
+DE272,15.731484400113027,soil_moisture
+DE273,14.598070628698569,soil_moisture
+DE27A,15.782063805944912,soil_moisture
+DE27B,14.751446092063443,soil_moisture; gdd
+DE27E,13.515623997486946,soil_moisture; gdd
+DE401,7.477298622533567,drainage; sandy_texture
+DE405,6.625930920516355,sandy_texture
+DE406,5.948599391664727,drainage; sandy_texture
+DE407,6.676870523188531,drainage; sandy_texture
+DE408,7.4204440258375515,sandy_texture
+DE40A,7.455583822094157,sandy_texture
+DE40B,6.858501336346102,sandy_texture
+DE40C,6.218028190363634,sandy_texture
+DE40D,8.515321249462634,sandy_texture
+DE40E,6.453500109042596,sandy_texture
+DE40F,10.011166001606265,sandy_texture
+DE40G,6.523540358510836,sandy_texture
+DE40H,5.441977192390116,sandy_texture
+DE803,11.38148541424835,drainage
+DE80L,11.23514629046013,drainage
+DE80M,10.09524609741401,drainage
+DE937,13.172392647820573,sandy_texture
+DE948,12.88983522158119,sandy_texture
+DE949,11.236577810552461,sandy_texture
+DE94B,11.441399164643801,sandy_texture
+DEA34,10.612023259094988,sandy_texture
+DEA37,10.204257451778512,sandy_texture
+DEA59,11.709850250858,soil_moisture; gdd
+DEB3A,7.496907081027638,soil_depth
+DEC05,7.586481166128763,soil_depth
+DEE06,7.049760492396194,sandy_texture
+DEE0D,8.305709662843118,sandy_texture
+DEE0E,6.215061663440874,sandy_texture
+DEG03,7.0227323858810795,soil_depth
+DK011,12.019740540991993,drainage
+DK014,5.261932171840807,soil_moisture
+DK032,13.580673748078912,sandy_texture
+DK041,12.533864842269793,sandy_texture
+EE001,10.330124127264794,frost_damage; gdd
+EE004,9.573263840142214,drainage; frost_damage; gdd
+EE006,11.075973963042141,frost_damage; gdd
+EE007,10.548002206358774,frost_damage; gdd
+EE008,9.999315909663311,frost_damage; gdd
+EL302,1.400956490299217,slope; soil_depth
+EL303,1.6706329740311994,slope; soil_depth
+EL304,2.99977247185972,slope
+EL306,0.9737710610386976,soil_depth
+EL307,3.667968452904398,slope; soil_depth
+EL412,4.7611727350987305,slope
+EL413,1.3971219605374983,slope; soil_depth
+EL422,3.851474613845551,slope; soil_depth
+EL432,1.8547060927409784,slope; soil_depth
+EL433,1.2040215649086394,slope; soil_depth
+EL434,1.2505205300402844,slope; soil_depth
+EL515,3.092440700976737,soil_depth
+EL532,3.5938024061714144,slope
+EL541,6.222971461606752,slope; salinity
+EL542,3.80849407386705,slope
+EL543,5.843789233473094,slope; soil_depth
+EL621,4.735146127592941,soil_depth
+EL622,8.471328548309085,soil_moisture
+EL623,2.211803943329989,slope; soil_depth
+EL624,4.849410573119042,slope; soil_depth
+EL631,5.131060035882869,slope
+EL632,4.03411405684358,slope; salinity
+EL641,3.2497481838068283,soil_depth
+EL642,1.5753832494738382,slope
+EL643,6.609610620753449,slope
+EL645,8.842625456402882,slope; soil_depth
+EL651,2.317113871373942,slope; soil_depth
+EL652,1.0772015112969857,slope
+EL653,2.711259379361464,soil_depth
+ES111,7.74818902698112,soil_moisture
+ES113,3.7849280734500623,soil_depth
+ES114,8.989881404742324,soil_moisture
+ES120,16.908820275306105,slope; soil_depth; soil_moisture
+ES130,15.278592039544913,slope; soil_moisture
+ES212,12.171924927199429,slope; soil_moisture
+ES213,12.339478906967921,slope
+ES241,7.326069022992743,salinity
+ES242,1.6497455804835663,soil_depth
+ES417,1.4909380812805806,soil_depth
+ES421,2.2146557223281156,soil_depth; acidity; dryness
+ES423,1.4883099416658796,soil_depth; dryness
+ES511,8.056979331567447,soil_depth
+ES513,6.065864794315064,soil_depth; gdd
+ES514,2.7928648251242456,soil_depth
+ES521,4.5288093120694075,acidity; dryness
+ES522,4.17146920203931,soil_depth
+ES523,3.811144141429608,soil_depth; dryness
+ES531,5.950387982249186,soil_depth
+ES532,3.0995682928147614,soil_depth
+ES533,2.7873588501401954,soil_depth
+ES614,1.2936796978256524,soil_depth; dryness
+ES617,3.8621639370047176,soil_depth
+ES620,3.401093444470844,acidity; dryness
+FI193,8.595136770814502,acidity; frost_damage; gdd
+FI194,9.256460974774825,acidity; frost_damage; gdd
+FI195,9.305970289909714,drainage; acidity; frost_damage; gdd
+FI196,10.854994964080495,frost_damage; gdd
+FI197,10.302609683101263,frost_damage; gdd
+FI1B1,9.425180646613253,frost_damage; gdd
+FI1C1,9.710613773766964,frost_damage; gdd
+FI1C2,10.254779232254714,frost_damage; gdd
+FI1C3,10.464775310252517,frost_damage; gdd
+FI1C4,8.828513191797487,frost_damage; gdd
+FI1C5,9.876884702216035,frost_damage; gdd
+FI1D1,10.35818395950329,acidity; frost_damage; gdd
+FI1D2,10.076694926792106,acidity; frost_damage; gdd
+FI1D3,10.628253384416928,acidity; soil_moisture; frost_damage; gdd
+FI1D5,8.2969236640076,acidity; frost_damage; gdd
+FI1D7,3.286627776053474,acidity; soil_moisture; frost_damage; gdd
+FI200,7.135790256345254,soil_depth; gdd
+HR031,11.035917331933529,soil_depth; soil_moisture
+HR032,12.438584044670415,soil_depth; soil_moisture
+HR033,4.895466076443943,soil_depth
+HR034,4.9289637691368,soil_depth
+HR035,5.500547592817284,soil_depth
+HR036,6.981996735130511,soil_moisture
+HR037,9.848876158403641,slope; soil_depth
+ITC13,17.102422974607023,soil_moisture; gdd
+ITC14,14.80254746358185,slope; soil_moisture; frost_damage; gdd
+ITC20,6.165087962292938,slope; soil_depth; soil_moisture; frost_damage; gdd
+ITC31,9.777767410177672,slope
+ITC32,9.14662435122522,slope
+ITC33,8.641455131833393,slope; soil_moisture
+ITC34,5.665505555637684,slope; soil_moisture
+ITC41,15.41626517933515,soil_moisture
+ITC42,20.101195489219194,slope; soil_moisture
+ITC43,19.568385979611882,slope; soil_moisture; gdd
+ITC44,0.2984088756790959,slope; soil_depth; soil_moisture; frost_damage; gdd
+ITC46,22.504577087490667,soil_moisture; gdd
+ITC47,15.835211751257031,frost_damage; gdd
+ITF11,4.228180104348118,slope; gdd
+ITF12,9.02208162483311,slope
+ITF21,5.52775156836043,slope
+ITF48,5.0755472026517925,salinity
+ITF61,4.67486533272676,slope
+ITF65,3.094924047897037,slope
+ITG12,4.177849870245659,slope
+ITG13,2.934363949401457,slope
+ITG2A,4.342795807944172,slope
+ITH10,3.2316091545441217,slope; soil_moisture; frost_damage; gdd
+ITH20,23.5134541929662,slope; soil_depth; soil_moisture; frost_damage; gdd
+ITH32,16.86696428520832,frost_damage
+ITH33,12.37793878790562,slope; soil_depth; soil_moisture; frost_damage; gdd
+ITH41,20.115825313917007,soil_moisture; frost_damage; gdd
+ITH42,12.01554376102191,soil_moisture; frost_damage; gdd
+ITH43,8.228894134818031,soil_moisture
+ITH44,8.622205346284868,soil_moisture
+ITI11,10.318418268737101,slope; soil_moisture
+ITI31,8.62759821929468,slope
+ITI34,8.58468539084453,slope
+ITI42,2.878858520280835,slope
+LV005,10.71403338364396,frost_damage
+LV007,10.118058594315345,frost_damage; gdd
+LV008,10.575138268526729,frost_damage; gdd
+LV009,11.133461325525051,frost_damage
+MK001,1.8571792322525678,slope; soil_depth
+MK002,8.16865548098366,slope
+MK007,3.094434550975931,slope; soil_depth
+NL111,14.073787497656653,drainage; om_peat
+NL131,12.840875999209578,sandy_texture
+NL132,12.80149413266752,drainage; sandy_texture; om_peat
+NL133,12.63190294310262,sandy_texture
+NL212,12.49254949323187,sandy_texture
+NL213,10.833697985801498,sandy_texture
+NL323,12.144351391301408,soil_moisture
+NL324,11.918090634083734,soil_moisture
+NL325,12.010616624489458,drainage; om_peat
+PL218,14.10137565077385,frost_damage; gdd
+PL219,14.82211682980792,soil_moisture; frost_damage; gdd
+PL411,8.167220657115745,sandy_texture
+PL414,7.323233348862054,sandy_texture
+PL416,7.612518493302645,sandy_texture
+PL417,7.933524314616742,sandy_texture
+PL418,7.9720172195301116,sandy_texture
+PL427,8.785322549527843,sandy_texture
+PL431,7.168278941309007,sandy_texture
+PL617,8.311871263708401,sandy_texture
+PL618,9.782593956714088,sandy_texture
+PL619,8.098739239002763,sandy_texture
+PL623,11.377757264405794,frost_damage
+PL637,10.858346626426647,sandy_texture
+PT111,8.645318752109318,slope; soil_moisture
+PT11C,6.2680133849214235,slope
+PT11D,1.725758510424188,coarse_texture
+PT11E,1.7165876601813133,coarse_texture
+PT16B,5.209539629210893,salinity
+PT16D,6.378637488393938,salinity
+PT16H,2.4118245837589587,coarse_texture
+PT16J,1.3529407061452274,coarse_texture
+RO111,10.038049290277666,frost_damage
+RO112,9.846523139154655,frost_damage; gdd
+RO113,11.889367332495706,frost_damage
+RO114,13.8098263925939,frost_damage; gdd
+RO121,12.920934411148213,frost_damage; gdd
+RO122,10.018285213639597,frost_damage; coarse_texture; gdd
+RO123,9.458091702582333,frost_damage; gdd
+RO124,10.2993971673779,frost_damage; gdd
+RO125,8.75761560218981,frost_damage; coarse_texture
+RO126,15.78300885576881,frost_damage; coarse_texture
+RO211,9.289025975821353,frost_damage
+RO212,7.448758337749831,frost_damage
+RO213,7.065262409316854,frost_damage
+RO214,10.714709886421462,frost_damage; gdd
+RO215,14.575144514900007,frost_damage; gdd
+RO222,7.455988129108823,frost_damage
+RO226,7.405055785962659,frost_damage
+RO311,11.823075936946186,frost_damage; gdd
+RO314,6.708798342549651,clay_texture
+RO316,9.276761491122807,frost_damage
+RO317,7.018587616988985,clay_texture
+RO322,6.5290211593574154,clay_texture
+RO412,7.301211109724926,frost_damage
+RO415,13.66412897967084,frost_damage; gdd
+RO422,9.351363174037463,frost_damage
+RO423,10.187844944079995,frost_damage; gdd
+RO424,10.082736830748052,clay_texture
+RS122,9.143734430014268,soil_depth; clay_texture
+RS126,8.401885788767718,clay_texture
+RS226,10.61574247756872,slope; frost_damage
+RS228,8.231677747774038,soil_depth; frost_damage
+SE121,11.219308427124053,frost_damage; gdd
+SE122,11.490808306840208,frost_damage; gdd
+SE124,13.38646478815949,frost_damage; gdd
+SE125,11.24635731755052,frost_damage; gdd
+SE211,10.834099899385958,acidity; gdd
+SE212,11.603025894908487,acidity; gdd
+SE232,12.940822111345284,acidity; frost_damage; gdd
+SE311,12.49519368203094,acidity; frost_damage; gdd
+SE312,9.020949552582442,acidity; soil_moisture; frost_damage; gdd
+SE313,10.989761243672643,acidity; frost_damage; gdd
+SE321,7.371761006520503,acidity; frost_damage; gdd
+SE322,7.920930604043148,soil_moisture; frost_damage; gdd
+SE331,4.903125671833403,soil_moisture; frost_damage; gdd
+SE332,2.0151236487977484,soil_moisture; frost_damage; gdd
+SI033,17.89505940621331,slope; soil_depth; soil_moisture; frost_damage; gdd
+SI035,16.26493344376845,slope; soil_depth; soil_moisture
+SI038,13.084703400101551,soil_moisture
+SI041,15.159881709324264,soil_moisture
+SI042,18.449460046139016,slope; soil_depth; soil_moisture; frost_damage; gdd
+SI043,18.768682545561777,slope; soil_depth; soil_moisture
+SI044,7.846491384925559,soil_depth; soil_moisture
+SK022,10.83209279826198,frost_damage
+SK031,13.142826876053348,frost_damage; gdd
+SK032,10.555104514777526,frost_damage; gdd
+SK041,12.421045743891318,frost_damage; gdd
+SK042,12.134755027016178,frost_damage
+UKC12,10.368653610066747,soil_moisture; gdd
+UKC14,9.436332893554146,drainage; soil_moisture; gdd
+UKC21,9.45251445319133,drainage; soil_moisture; gdd
+UKD11,9.592224885483404,soil_moisture; gdd
+UKD12,9.881540961302473,soil_moisture; gdd
+UKD33,12.58248086057033,soil_moisture
+UKD35,11.864329536907668,drainage; soil_moisture
+UKD37,11.57365452025917,drainage; soil_moisture; gdd
+UKD41,12.598969050666014,drainage; soil_moisture; gdd
+UKD42,16.281250127547246,soil_moisture
+UKD44,12.678054271422662,drainage; soil_moisture; gdd
+UKD45,12.12550310928184,drainage; soil_moisture; gdd
+UKD46,10.202079061150664,drainage; soil_moisture; gdd
+UKD73,16.03539877018199,soil_moisture
+UKE32,10.87406653465684,drainage; soil_moisture; gdd
+UKE41,10.926852651771558,drainage; soil_moisture; gdd
+UKE44,10.955892120506322,drainage; soil_moisture; gdd
+UKE45,10.920608059065222,drainage
+UKF12,10.487708373704692,drainage
+UKF13,10.560339276959514,soil_moisture; gdd
+UKJ21,9.307944292149081,soil_depth
+UKJ26,8.368575175378586,drainage
+UKJ28,7.81743146918047,drainage
+UKK30,11.164074365832517,soil_depth; soil_moisture
+UKK41,11.284581460982553,soil_depth; soil_moisture
+UKK42,10.297951919532656,soil_depth; soil_moisture
+UKK43,10.958683917933037,soil_depth; soil_moisture
+UKL11,12.821492317661196,soil_moisture
+UKL12,12.12426290229443,soil_depth; soil_moisture; gdd
+UKL13,10.307936950049637,soil_depth; soil_moisture; gdd
+UKL14,12.56087661481094,soil_depth; soil_moisture
+UKL15,10.802942859831063,soil_depth; soil_moisture; gdd
+UKL16,10.661626077786822,soil_depth; soil_moisture; gdd
+UKL17,12.893720885639064,soil_depth; soil_moisture
+UKL18,15.021836812663883,soil_moisture
+UKL21,10.237298711431812,soil_depth
+UKL22,13.10639697339136,soil_moisture
+UKL24,9.083647121777432,soil_depth; soil_moisture; gdd
+UKM50,7.158458344569889,soil_moisture; gdd
+UKM61,5.813311664937103,drainage; acidity; soil_moisture; sandy_texture; om_peat; gdd
+UKM62,2.512985406252778,acidity; soil_moisture; sandy_texture; gdd
+UKM63,9.43405767575575,slope; drainage; acidity; soil_moisture; om_peat; gdd
+UKM64,8.703765465143046,drainage; acidity; soil_moisture; om_peat; gdd
+UKM65,7.09671837933777,drainage; soil_moisture; gdd
+UKM66,4.38770527827941,soil_moisture; gdd

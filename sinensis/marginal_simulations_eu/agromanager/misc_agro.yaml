@@ -1,0 +1,57 @@
+Version: 1.0.0
+AgroManagement:
+- 2018-10-01:
+    CropCalendar:
+        crop_name: miscanthus
+        variety_name: miscanthus_sinensis
+        crop_start_date: 2019-01-01
+        crop_start_type: emergence
+        crop_end_date: 2019-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2020-01-01:
+    CropCalendar:
+        crop_name: miscanthus
+        variety_name: miscanthus_sinensis
+        crop_start_date: 2020-01-01
+        crop_start_type: emergence
+        crop_end_date: 2020-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2021-01-01:
+    CropCalendar:
+        crop_name: miscanthus
+        variety_name: miscanthus_sinensis
+        crop_start_date: 2021-01-01
+        crop_start_type: emergence
+        crop_end_date: 2021-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2022-01-01:
+    CropCalendar:
+        crop_name: miscanthus
+        variety_name: miscanthus_sinensis
+        crop_start_date: 2022-01-01
+        crop_start_type: emergence
+        crop_end_date: 2022-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null
+- 2023-01-01:
+    CropCalendar:
+        crop_name: miscanthus
+        variety_name: miscanthus_sinensis
+        crop_start_date: 2023-01-01
+        crop_start_type: emergence
+        crop_end_date: 2023-12-30
+        crop_end_type: harvest
+        max_duration: null
+    TimedEvents: null
+    StateEvents: null

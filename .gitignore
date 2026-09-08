@@ -1,0 +1,7 @@
+# GitHub won't accept files over 100 MB
+**/veenkampen_*.csv
+**/BRO_DownloadBodemkaart.gpkg
+# caches + a nested git repo, no reason to upload
+*.sqlite
+**/agera5_csv/
+pcse_notebooks/

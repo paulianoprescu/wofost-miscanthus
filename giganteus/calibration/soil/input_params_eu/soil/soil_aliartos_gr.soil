@@ -1,0 +1,54 @@
+** Generated from SoilGrids v2 (ISRIC) + Wösten 1999 PTF
+** Site: aliartos_gr
+** Topsoil: 0-30 cm depth-weighted average
+**
+** SOIL PARAMETER FILE for use in PCSE
+**
+
+SOLNAM='aliartos_gr'
+
+** physical soil characteristics
+
+** soil water retention
+SMTAB    =  -1.000,   0.433,     ! vol. soil moisture content
+             1.000,   0.423,     ! as function of pF [log (cm); cm3 cm-3]
+             1.300,   0.413,
+             1.491,   0.404,
+             1.700,   0.392,
+             2.000,   0.370,
+             2.400,   0.336,
+             2.700,   0.311,
+             3.000,   0.286,
+             3.400,   0.256,
+             3.700,   0.236,
+             4.000,   0.217,
+             4.204,   0.205,
+             6.000,   0.125
+
+SMW      =   0.205  ! soil moisture content at wilting point [cm3/cm3]
+SMFCF    =   0.370  ! soil moisture content at field capacity [cm3/cm3]
+SM0      =   0.433  ! soil moisture content at saturation [cm3/cm3]
+CRAIRC   =   0.060  ! critical soil air content for aeration [cm3/cm3]
+
+** hydraulic conductivity
+CONTAB    =  -1.000,   4.165,       ! 10-log hydraulic conductivity
+              1.000,   0.473,       ! as function of pF [log (cm); log (cm day-1)]
+              1.300,   0.234,
+              1.491,   0.138,
+              1.700,   0.072,
+              2.000,   0.026,
+              2.400,   0.006,
+              2.700,   0.002,
+              3.000,   0.001,
+              3.400,   0.000,
+              3.700,   0.000,
+              4.000,   0.000,
+              4.204,   0.000,
+              6.000,   0.000
+
+K0       =     15.091 ! hydraulic conductivity of saturated soil [cm day-1]
+SOPE     =   15.09   ! maximum percolation rate root zone [cm day-1]
+KSUB     =   11.19   ! maximum percolation rate subsoil [cm day-1]
+
+** soil depth
+RDMSOL   = 200
