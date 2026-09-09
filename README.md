@@ -1,4 +1,4 @@
-## BSc Thesis
+## Biofuel Feedstock Forecasting: BSc Thesis
 
 Finishing up my BSc in International Land & Water Management at WUR,
 I have interned within the Earth Observation & Environmental Informatics Group at Wageningen Environmental Research.
