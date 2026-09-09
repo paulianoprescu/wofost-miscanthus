@@ -5,3 +5,5 @@
 *.sqlite
 **/agera5_csv/
 pcse_notebooks/
+.DS_Store
+.vscode/
