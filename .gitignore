@@ -10,3 +10,5 @@ pcse_notebooks/
 sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
 sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
 marginal_simulations_eu/weather/extract_weather_agera5.ipynb
+sinensis/miscanthus_validation/first_trial/run_potential_production.html
+sinensis/miscanthus_validation/first_trial/run_water_limited.html
