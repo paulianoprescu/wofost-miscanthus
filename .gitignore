@@ -8,3 +8,4 @@ pcse_notebooks/
 .DS_Store
 .vscode/
 sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
+sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
