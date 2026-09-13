@@ -16,3 +16,8 @@ This thesis represents the initial work of bringing in a perrenial biomass crop 
 
 More information about the model, the envrionment, and techniques used here can be found at : https://github.com/ajwdewit
 
+<p align="center"><sub>
+  PCSE Engine structure. Figure from the
+  <a href="https://pcse.readthedocs.io/en/stable/reference_guide.html">PCSE Reference Guide</a>,
+  © Allard de Wit. Reproduced for illustration.
+</sub></p>
