@@ -9,3 +9,4 @@ pcse_notebooks/
 .vscode/
 sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
 sinensis/miscanthus_calibration/run_wofost_miscanthus.ipynb
+marginal_simulations_eu/weather/extract_weather_agera5.ipynb
