@@ -35,8 +35,8 @@ from pcse.input import WOFOST72SiteDataProvider
 
 
 # Paths
-project = Path("/Users/paulianoprescu/Projects/wofost_miscanthus/miscanthus_calibration")
-input_dir = project / "input_params"
+project = Path.cwd().parent
+input_dir = project / "miscanthus_calibration" / "input_params"
 
 CROP_FILE    = input_dir / "miscanthus" / "miscanthus.yaml"
 SOIL_FILE    = input_dir / "soil" / "soil_10110.soil"
